@@ -73,7 +73,7 @@ public final class MaterialUtil {
         MOB_HEADS = EnumUtil.getAllMatching(Material.class, "SKELETON_SKULL",
             "SKELETON_WALL_SKULL", "WITHER_SKELETON_SKULL", "WITHER_SKELETON_WALL_SKULL",
             "CREEPER_HEAD", "CREEPER_WALL_HEAD", "ZOMBIE_HEAD", "ZOMBIE_WALL_HEAD", "DRAGON_HEAD"
-            , "DRAGON_WALL_HEAD");
+            , "DRAGON_WALL_HEAD", "PIGLIN_HEAD", "PIGLIN_WALL_HEAD");
 
         PLAYER_HEADS = EnumUtil.getAllMatching(Material.class, "PLAYER_HEAD", "PLAYER_WALL_HEAD");
 
